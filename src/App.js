@@ -19,6 +19,7 @@ function App() {
       <Route path="/Forgotpassword" element ={<Forgotpassword/>}/>
       <Route path="/Offers" element ={<Offers/>}/>
       <Route path="/sign-up" element ={<Signup/>}/>
+      
     </Routes>
    </Router>
   );
